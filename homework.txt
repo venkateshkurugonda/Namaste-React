@@ -1,0 +1,6 @@
+Namaste React Homework :
+
+Ep-!
+
+1. what is CDN ?
+2. what is crossOrigin ?
